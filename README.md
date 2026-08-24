@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**sarahribeiro1625-cloud/sarahribeiro1625-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <!-- 👉 Efeito de "digitando" no topo. Troque o texto em &lines= pelo que quiser --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+%5BSEU_NOME%5D!;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Aprendendo+C%2C+Python+e+Assembly+MIPS;Sempre+em+busca+de+um+novo+desafio+%F0%9F%9A%80" alt="Typing SVG" /> </div> <!-- 👉 Banner decorativo (capsule render). Pode trocar a cor em color= e o texto em text= --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:9D4EDD&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <br/>
+👩‍💻 Sobre mim
+🎓 Estudante de Engenharia de Computação, cursando as disciplinas de base (arquitetura de computadores, algoritmos, matemática)
+🔭 No momento, aprofundando conhecimentos em C, Python e Assembly (MIPS)
+🌱 Sempre estudando lógica, estrutura de dados e fundamentos de sistemas
+💼 Em preparação para conseguir meu primeiro estágio na área
+💬 Me chame para falar sobre: 👉 [SEU_ASSUNTO_FAVORITO, ex: "programação, hardware, IA..."]
+📫 Como me encontrar: 👉 [SEU_EMAIL_OU_CONTATO]
+⚡ Curiosidade sobre mim: 👉 [ALGO_CURIOSO_SOBRE_VOCE]
+<br/>
+🛠️ Tecnologias e ferramentas
+<div align="center"> <!-- 👉 Adicione/remova badges conforme suas tecnologias. Veja mais em https://simpleicons.org --> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <!-- 👉 [ADICIONE_MAIS_BADGES_AQUI, ex: Java, JavaScript, SQL, VS Code...] --> </div> <br/>
+📊 Estatísticas do GitHub
+<div align="center"> <!-- 👉 Troque "SEU_USUARIO_AQUI" pelo seu usuário do GitHub em TODOS os links abaixo --> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true"/> </div> <br/>
+🚀 Projetos em destaque
+<!-- 👉 Substitua pelos seus repositórios reais (nome exato do repo) --> <div align="center"> <a href="https://github.com/SEU_USUARIO_AQUI/NOME_DO_REPOSITORIO_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=NOME_DO_REPOSITORIO_1&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/SEU_USUARIO_AQUI/NOME_DO_REPOSITORIO_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=NOME_DO_REPOSITORIO_2&theme=tokyonight&hide_border=true"/> </a> </div> <br/>
+🌐 Redes e contato
+<div align="center"> <!-- 👉 Troque cada link pelo seu perfil real. Se não usar alguma rede, apague a linha --> <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/SEU_INSTAGRAM_AQUI"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <!-- 👉 [ADICIONE_OUTRA_REDE_AQUI, ex: Discord, Twitter/X, portfólio pessoal...] --> </div> <br/> <!-- 👉 Contador de visitas ao seu perfil --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Visualizações%20do%20perfil&color=58A6FF&style=flat" /> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:58A6FF&height=120&section=footer" width="100%"/>
