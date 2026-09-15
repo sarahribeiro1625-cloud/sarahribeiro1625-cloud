@@ -12,4 +12,4 @@
 💻 Atualmente estudando C e Python<br>
 🔐 Interessada em Cibersegurança<br>
 🧠 Desenvolvendo fundamentos de programação e computação<br>
-🚀 Buscando transformar conhecimento em projetos></p>
+🚀 Buscando transformar conhecimento em projetos</p>
