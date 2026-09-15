@@ -8,8 +8,8 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,python,git,github,linux,vscode" alt="tech stack" /> </p>
 <p align="center">👩‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Computação
-💻 Atualmente estudando C e Python
-🔐 Interessada em Cibersegurança
-🧠 Desenvolvendo fundamentos de programação e computação
+🎓 Estudante de Engenharia de Computação<br>
+💻 Atualmente estudando C e Python<br>
+🔐 Interessada em Cibersegurança<br>
+🧠 Desenvolvendo fundamentos de programação e computação<br>
 🚀 Buscando transformar conhecimento em projetos></p>
