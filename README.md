@@ -6,3 +6,10 @@
 
 <h3 align="center">💻 Tecnologias & Ferramentas</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,python,git,github,linux,vscode" alt="tech stack" /> </p>
+<p align="center">👩‍💻 Sobre mim
+
+🎓 Estudante de Engenharia de Computação
+💻 Atualmente estudando C e Python
+🔐 Interessada em Cibersegurança
+🧠 Desenvolvendo fundamentos de programação e computação
+🚀 Buscando transformar conhecimento em projetos></p>
